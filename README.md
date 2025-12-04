@@ -18,30 +18,24 @@ Add a new contact by entering a name and phone number.
 ✔ Shows "Contact added!"
 
 🔹 View All Contacts
-
 Displays all saved entries.
 ✔ If none: "No contacts found"
 
 🔹 Delete Contact
-
 Remove a contact by name.
 ✔ “Contact deleted” or “Contact not found!”
 
 🔹 Save Contacts to File
-
 Stores all contacts in a text file.
 
 🔹 Exit Program
-
 Closes the application safely.
 
 🧱 OOP Concepts Used
 🎯 Classes & Objects
 
 Contact
-
 ContactBook
-
 Main
 
 🔐 Encapsulation
@@ -60,7 +54,6 @@ displayContacts()
 deleteContact()
 saveToFile()
 public static void main(String[] args)
-
 
 ContactBookApplication/
 │
