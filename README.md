@@ -6,8 +6,7 @@ A clean, simple, and beginner-friendly Java console application for managing con
 
 📘 Overview
 
-This Contact Book Application helps users store, view, delete, and save contact information.
-Contact details are saved permanently using Java file handling.
+This Contact Book Application helps users store, view, delete, and save contact information. Contact details are saved permanently using Java file handling.
 
 This mini-project showcases the core concepts of Object-Oriented Programming (OOP).
 
@@ -15,6 +14,7 @@ This mini-project showcases the core concepts of Object-Oriented Programming (OO
 🔹 Add Contact
 
 Add a new contact by entering a name and phone number.
+
 ✔ Shows "Contact added!"
 
 🔹 View All Contacts
